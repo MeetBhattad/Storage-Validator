@@ -218,10 +218,6 @@ Through this project I gained hands-on experience with:
 
 **Meet Bhattad**
 
-GitHub: https://github.com/MeetBhattad
-
-LinkedIn: *(Add your LinkedIn profile here)*
-
 ---
 
 ## License
