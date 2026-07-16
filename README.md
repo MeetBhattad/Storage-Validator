@@ -1,3 +1,5 @@
+[![Python Tests](https://github.com/MeetBhattad/Storage-Validator/actions/workflows/python-tests.yml/badge.svg)](https://github.com/MeetBhattad/Storage-Validator/actions/workflows/python-tests.yml)
+
 # Storage Validation Framework
 
 A Python-based Storage Validation Framework that simulates the workflow of a storage/SSD validation engineer. The project demonstrates automated testing, storage operation validation, logging, and report generation using Python.
